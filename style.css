@@ -1,0 +1,39 @@
+marquee{
+   font-size: 20px; 
+}
+
+
+#princi{
+    width:175px; 
+    height:175px;
+}
+
+.
+.Achievements_head {
+    font-size: 20px;
+    padding: 6px 25px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display: inline-block;
+}
+    
+
+p {
+    color:blue;
+}
+#bbtour{
+    padding-bottom: 10px;
+}
+.Achievements_head i
+{
+   float:right; 
+}
+.movie_text span{
+    color:yellow;
+    
+}
+img{
+    width: 100%;
+    height: 200px;
+}
